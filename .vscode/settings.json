@@ -2,7 +2,9 @@
     "files.associations": {
         "ostream": "cpp",
         "vector": "cpp",
-        "memory": "cpp"
+        "memory": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp"
     },
     "files.exclude":{
         "**/*.exe": true

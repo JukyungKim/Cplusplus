@@ -26,6 +26,5 @@ int main(){
     // foo3('c');
     unique_ptr<int> uptr(new int);
 
-
     return 0;
 }
